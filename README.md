@@ -1,12 +1,12 @@
 # 💫 About Me:
-I'm Aryan — a **Certified Ethical Hacker by EC-Council** and a cybersecurity enthusiast currently pursuing my Bachelor's in Computer Science (Cybersecurity). 
+Myself Aryan — a **Certified Ethical Hacker(CEH Master)** and a cybersecurity enthusiast currently pursuing my Bachelor's in Computer Science (Cybersecurity). 
 
 Specialized in **Vulnerability Assessment & Penetration Testing (VAPT)**, with hands-on experience in VulnHub labs, CTFs, and security tool development. I enjoy collaborating with others on open-source security projects and sharing knowledge within the pentesting community. I’m always eager to expand my knowledge and skills. 
 
 I also have exposure to **SOC operations** (log monitoring, packet analysis) with hands-on experience using **SIEM tools**, along with foundational knowledge in **digital forensics** — giving me experience across both the offensive and defensive sides of cybersecurity.  
 
 Currently exploring **Bug Bounty** and advanced web attacks through labs and challenges.  
-<br>
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-tiwari-94a197217) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a6addon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryantiwari0904@gmail.com) 
 
@@ -33,7 +33,6 @@ Currently exploring **Bug Bounty** and advanced web attacks through labs and cha
 - [VulnHub Writeups](https://github.com/Aryan-094/vulnhub-writeups)  
 - [CTF Writeups](https://github.com/Aryan-094/ctf-writeups)  
 
-<br>
 
 # 📜 Certifications & Training:
 - Certified Ethical Hacker (CEH Master) – EC-Council  
