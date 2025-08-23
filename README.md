@@ -15,7 +15,11 @@ Currently exploring **Bug Bounty** and advanced web attacks through labs and cha
 # 💻 Tech Stack
 
 **Pentesting & Security Tools:**  
-![Nmap](https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=linux&logoColor=white) ![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-1E90FF?style=for-the-badge&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![SQLmap](https://img.shields.io/badge/SQLmap-FFD700?style=for-the-badge&logo=database&logoColor=black) ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=linux&logoColor=white) ![LinPEAS](https://img.shields.io/badge/LinPEAS-800080?style=for-the-badge&logo=linux&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-1E90FF?style=for-the-badge&logo=linux&logoColor=white) ![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-1E90FF?style=for-the-badge&logo=metasploit&logoColor=white) ![SQLmap](https://img.shields.io/badge/SQLmap-FFD700?style=for-the-badge&logo=database&logoColor=black) ![Hydra](https://img.shields.io/badge/Hydra-2E8B57?style=for-the-badge&logoColor=white) ![LinPEAS](https://img.shields.io/badge/LinPEAS-800080?style=for-the-badge&logo=linux&logoColor=white)  
+
+**SOC Tools:**
+
+![Splunk](https://img.shields.io/badge/Splunk-FE674D?style=for-the-badge&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005C99?style=for-the-badge&logo=wazuh&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=hack-the-box&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
 
 **Scripting & Automation:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
