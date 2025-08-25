@@ -10,8 +10,6 @@ Currently exploring **Bug Bounty** and advanced web attacks through labs and cha
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-tiwari-94a197217) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a6addon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryantiwari0904@gmail.com) 
 
-<br>
-
 # 💻 Tech Stack
 
 **Pentesting & Security Tools:**  
@@ -30,13 +28,13 @@ Currently exploring **Bug Bounty** and advanced web attacks through labs and cha
 <br>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Aryan-094&theme=chartreuse-dark&hide_border=true) <br>
+<!--![](https://nirzak-streak-stats.vercel.app/?user=Aryan-094&theme=chartreuse-dark&hide_border=true) <br> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-094&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 # 🔐 Featured Repositories:
-- [VulnHub Writeups](https://github.com/Aryan-094/vulnhub-writeups)  
-- [CTF Writeups](https://github.com/Aryan-094/ctf-writeups)  
+- [Projects](https://github.com/Aryan-094/Projects)  
 
+📌 For my **hands-on walkthroughs, CTF writeups, and detailed lab reports**, check out my [Medium profile](https://medium.com/@a6addon). 
 
 # 📜 Certifications & Training:
 - Certified Ethical Hacker (CEH Master) – EC-Council  
