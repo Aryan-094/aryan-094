@@ -5,7 +5,7 @@ Specialized in **Vulnerability Assessment & Penetration Testing (VAPT)**, with h
 
 I also have exposure to **SOC operations** (log monitoring, packet analysis) with hands-on experience using **SIEM tools**, along with foundational knowledge in **digital forensics** — giving me experience across both the offensive and defensive sides of cybersecurity.  
 
-Currently exploring **Bug Bounty** and advanced web attacks through labs and challenges.  
+Currently exploring advanced web attacks through labs and challenges.  
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-tiwari-94a197217) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a6addon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryantiwari0904@gmail.com) 
