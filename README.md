@@ -1,7 +1,7 @@
 # 💫 About Me:
 Myself Aryan — a **Certified Ethical Hacker(CEH Master)** and a cybersecurity enthusiast currently pursuing my Bachelor's in Computer Science (Cybersecurity). 
 
-Specialized in **Vulnerability Assessment & Penetration Testing (VAPT)**, with hands-on experience in VulnHub labs, CTFs, and security tool development. I enjoy collaborating with others on open-source security projects and sharing knowledge within the pentesting community. I’m always eager to expand my knowledge and skills. 
+Specialized in **Vulnerability Assessment & Penetration Testing (VAPT)**, with hands-on experience in VulnHub labs, CTFs, and security tool development. I document my offensive security work through detailed lab reports and writeups, focusing on methodology over tool-running. I’m always eager to expand my knowledge and skills. 
 
 I also have exposure to **SOC operations** (log monitoring, packet analysis) with hands-on experience using **SIEM tools**, along with foundational knowledge in **digital forensics** — giving me experience across both the offensive and defensive sides of cybersecurity.  
 
